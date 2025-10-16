@@ -1,0 +1,1 @@
+mainapp.exe -launcher -nsync

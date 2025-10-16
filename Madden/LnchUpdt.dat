@@ -1,0 +1,4 @@
+//This File is used by the Launcher and Updater to determine which build this is.
+//Would be better to do this in registry (in fact, it's there) but can't 'cause game may not be installed
+//Values are NADVD, UKDVD, NAEAD, UKEAD.  Each language/build has a different file that gets installed
+BuildType=UKDVD
